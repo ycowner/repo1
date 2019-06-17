@@ -2,4 +2,6 @@ hello nihao chileme
 eat food
 drink milk
 running
+morning goodafternoon goodevening
+nice to meet you
 update ok.
